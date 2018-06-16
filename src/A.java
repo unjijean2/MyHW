@@ -9,5 +9,8 @@ public class A {
 		b.show();
 
 		System.out.println("****************");
+
+		B bb = new B("B_devB");
+		bb.println();
 	}
 }

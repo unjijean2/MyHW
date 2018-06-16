@@ -12,4 +12,9 @@ public class B {
 	public void println() {
 		System.out.println(str);
 	}
+
+
+	public line() {
+		System.out.println("-----------------");
+	}
 }

@@ -12,5 +12,8 @@ public class A {
 
 		B bb = new B("B_devB");
 		bb.println();
+
+		C cc = new B("B_devC");
+		cc.show();
 	}
 }

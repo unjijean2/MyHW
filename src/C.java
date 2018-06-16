@@ -12,4 +12,9 @@ public class C {
 	public void show() {
 		System.out.println(str);
 	}
+
+
+	public line() {
+		System.out.println("================");
+	}
 }

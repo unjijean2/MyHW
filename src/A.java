@@ -7,5 +7,7 @@ public class A {
 
 		C c = new C("C_World!");
 		b.show();
+
+		System.out.println("****************");
 	}
 }
